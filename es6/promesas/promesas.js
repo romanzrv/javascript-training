@@ -11,7 +11,7 @@ const coins = () => {
     getCoins.then((success) => {
         console.log(`He obtenido ${success}`);
     });
-    console.log('Continue executing...');
+    console.log('COINtinue executing...');
 };
 
 coins();
